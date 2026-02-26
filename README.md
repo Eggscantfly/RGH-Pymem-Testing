@@ -1,2 +1,1 @@
-# RGH-Pymem-Testing
-My python scripts that does memory hacks to LyN_f.exe
+Hello! Welcome. This repository's sole purpose is to upload Python scripts relating to RGH and Pymem for memory hacking.
