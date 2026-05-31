@@ -14,5 +14,5 @@ value = pm.read_int(final_Address)
 user_input = input("Do you wish to toggle the fps counter?: ")
 
 if user_input.lower() == "yes":
-    pm.write_int(final_Address, 406401099)
+    pm.write_int(final_Address, 406401099) // this is the value to set the fps counter to ON
     print ("Done!")
